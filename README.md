@@ -1,1 +1,1 @@
-# lenstra-s-algorithm-for-eliptic-curvesin-python
+# lenstra's-algorithm-for-eliptic-curves-in-python
